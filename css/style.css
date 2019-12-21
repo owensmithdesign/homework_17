@@ -70,6 +70,8 @@ section{
     border-radius: 10px;
     background-color: #272525;
     margin: 0 auto;
+    margin-bottom: 40px;
+    margin-top: 22px;
 }
     
 .allSections{
@@ -183,11 +185,12 @@ margin: 0 auto;
     max-width: 700px;
     padding: 20px;
     margin: 0 auto;
+    margin-bottom: 40px;
 }
 .caseStudyHeadline{
     font-size: 32px;
     margin: 0px;
-    padding: 20px;
+    padding-bottom: 20px;
 }
 .caseStudyTemplate{
     color: #E5E7ED;
